@@ -1,3 +1,3 @@
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/zackfern/good-emoji/master/yikes.png" align="center" alt="Yikes" width="50px" height="50px">
+  <img src="https://github.com/zackfern/zackfern/assets/74598/38dbcf07-b1d9-4c06-b004-183448dd9977" align="center" alt="Thank You" width="50%">
 </h3>
